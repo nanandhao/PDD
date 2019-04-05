@@ -1,0 +1,13 @@
+export const HOME_CACROUSEL = 'home_cacrousel'; // 首页轮播图
+export const HOME_NAV = 'home_nav'; // 首页热门栏目导航
+export const HOME_SHOP_LIST = 'home_shop_list'; // 首页商品列表
+export const RECOMMEND_SHOP_LIST = 'recommend_shop_list'; // 推介商品列表
+export const RESET_RECOMMEND = 'reset_recommend'; // 重置推介商品列表
+export const SEARCH_DATA = 'search_data'; // 搜索页数据
+export const USER_INFO = 'user_info'; // 保存用户信息
+export const SHOP_CAR = 'shop_car'; // 保存购物车信息
+export const SHOP_COUNT = 'shop_count'; // 改变购物车商品数量
+export const DELETE_SHOP = 'delete_shop'; // 删除购物车中的商品
+export const SHOP_TOTAL = 'shop_total'; // Tabbar购物车图标显示的商品数量
+export const SELECT_ONE_GOODS = 'select_one_goods'; // 选中或者取消单个商品
+export const SELECT_ALL_GOODS = 'select_all_goods'; // 选中或者取消所有商品
